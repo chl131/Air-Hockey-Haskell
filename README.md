@@ -5,6 +5,15 @@
   <img src="./img/ponggamedemo.gif"/>
 </p>
 
+### Usage
+Due to the dependency of the libraries, you may want to run the program in this [VM](https://drive.google.com/file/d/1225EjVN8goUe44aapiYOMfRd15aRtEBg/view?usp=sharing)
+
+Steps of running this program :
+1. ```git clone git@github.com:chl131/Air-Hockey-Haskell.git```
+2. ```cd Air-Hockey-Haskell```
+3. ```stack build```
+4. ```stack run```
+
 ### Contributions
 Project Members : Yuka Chu, Chi-Hsuan Lee, Yi-Ting Wang, Heidi Cheng
 
